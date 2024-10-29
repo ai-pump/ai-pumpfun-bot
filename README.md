@@ -1,4 +1,4 @@
-# AI-PumpBot
+# Trench-AI
 
 **Version:** 1.0  
 **Author:** ai-pump 
@@ -23,7 +23,7 @@ AI-PumpBot is an automated bot that leverages machine learning and data analysis
 ## 🔧 Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ai-pump/ai-pumpfun-bot/
+   git clone https://github.com/trafalgar78/trench-ai
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
