@@ -1,7 +1,7 @@
 # AI-PumpBot
 
 **Version:** 1.0  
-**Author:** pump-mimic  
+**Author:** ai-pump 
 
 ## 📖 Overview
 AI-PumpBot is an automated bot that leverages machine learning and data analysis algorithms to monitor cryptocurrency trends and launch "Pump & Dump" coins. The bot scans social media, forums, and news sites to identify trending topics and launches campaigns to artificially increase the coin's value.
@@ -23,7 +23,7 @@ AI-PumpBot is an automated bot that leverages machine learning and data analysis
 ## 🔧 Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/pump-mimic/ai-pumpbot
+   git clone https://github.com/ai-pump/ai-pumpfun-bot/
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
